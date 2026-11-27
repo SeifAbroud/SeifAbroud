@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
+<style>.t{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}.g{animation:s 4s ease-in-out infinite}@keyframes s{50%{opacity:.55}}</style>
+<g class="t"><rect x="1" y="1" width="598" height="298" rx="20" fill="#17151f" stroke="#2d2a3b" stroke-width="1.5"/>
+<clipPath id="k"><rect x="1" y="1" width="598" height="298" rx="20"/></clipPath><rect width="600" height="7" fill="#c9b8ff" clip-path="url(#k)"/>
+<g transform="translate(482,30)" class="g"><circle cx="22" cy="14" r="8" fill="none" stroke="#c9b8ff" stroke-width="4"/><circle cx="22" cy="60" r="8" fill="none" stroke="#c9b8ff" stroke-width="4"/><circle cx="64" cy="26" r="8" fill="none" stroke="#c9b8ff" stroke-width="4"/><path d="M22 22 V52 M22 44 C22 34 64 44 64 34" fill="none" stroke="#c9b8ff" stroke-width="4"/></g>
+<rect x="32" y="34" width="220" height="26" rx="13" fill="#c9b8ff" opacity=".18"/><text x="43" y="52" fill="#c9b8ff" font-size="13" font-weight="700">Open source · Contribution</text>
+<text x="32" y="98" fill="#f3f0fa" font-size="27" font-weight="700" letter-spacing="-.5">dukkani</text>
+<text x="32" y="132" fill="#b4aec6" font-size="15.5">Open-source no-code online shop builder. Contributed a merged</text><text x="32" y="156" fill="#b4aec6" font-size="15.5">pull request to the TypeScript codebase.</text>
+<text x="568" y="216" text-anchor="end" fill="#c9b8ff" font-size="26" font-weight="700">Merged</text>
+<text x="568" y="234" text-anchor="end" fill="#b4aec6" font-size="12">pull request</text>
+<rect x="32" y="236" width="107" height="28" rx="14" fill="none" stroke="#2d2a3b"/><text x="44" y="255" fill="#f3f0fa" font-size="13" font-weight="600">TypeScript</text><rect x="147" y="236" width="115" height="28" rx="14" fill="none" stroke="#2d2a3b"/><text x="159" y="255" fill="#f3f0fa" font-size="13" font-weight="600">Open source</text></g></svg>
